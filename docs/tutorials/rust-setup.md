@@ -40,7 +40,7 @@ git init
 While this program is a short tutorial, for best practice create a README file:
 ```shell
 echo  "# COMP423 Rust Hello World" >> README.md
-echo  "[Tutorial Link](https://Meepsyter.github.io/comp423-course-notes/tutorials/rust-setup/)" >> README.md
+echo  "[Tutorial Link](https://.github.io/comp423-course-notes/tutorials/rust-setup/)" >> README.md
 ```
 !!! note
     The ```echo``` command appends text to the ```READEME.md``` file.
