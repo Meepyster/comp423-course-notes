@@ -7,7 +7,7 @@
 
 ### Git and Github
 
-<p>Git is a powerfull yet simple Source Code Management System. By commiting and branch your able is easily debug and merge different versions and parts of your program</p>
+<p>Git is a powerful yet simple Source Code Management System. By commiting and branch your able is easily debug and merge different versions and parts of your program</p>
 <p><a href="https://git-scm.com/">Git can be found here</a></p>
 
 <p>Github however is a software made to give cloud services to git. By its name, it can be seen as a "Hub" of Gits.</p>
@@ -21,7 +21,7 @@
 <p><a href="https://code.visualstudio.com/docs/devcontainers/containers">Dev Container tutorial can be found here</a></p>
 ---
 
-### **Rust ?**
+### **Rust**
 Since we are downlaoding the extension into VSCode and opening a container with an image, we **don't** actually need to formally install Rust! However, if you want to do some personal programming with the language thats heavily encouraged!
 <p><a href="https://www.rust-lang.org/tools/install">Download Rust here!</a></p>
 ---
@@ -54,7 +54,7 @@ git commit -m "Initial commit with README"
 ## Step - 2 Connecting to GitHub
 
 ### Link the local Repo to GitHub
-<p>1 - Navigate to the <b>Create a New Reposity page</b> in <a href="https://github.com/">Github</a></p>
+<p>1 - Navigate to the <b>Create a New Repository page</b> in <a href="https://github.com/">Github</a></p>
 <p>2 - Use these details:</p>
 * <b>Repository Name: </b>COMP423-Rust
 * <b>Description: </b>"My first Rust Hello World for Comp 423"
@@ -139,7 +139,7 @@ cd Hello-COMP423
 !!! abstract "In Fact"
     ```cargo new Hello-COMP423 --vcs none``` Creates a **project folder**. In the next steps, we will be doing commands in this directory. Make sure to be in it!
 
-* Now in VSCord, go through ```Hello-COMP423/src/main.rs``` and modify the pre made print statement to be the desired ```Hello COMP423```
+* Now in VSCode, go through ```Hello-COMP423/src/main.rs``` and modify the pre made print statement to be the desired ```Hello COMP423```
 
 <!-- -->
 <!-- -->
