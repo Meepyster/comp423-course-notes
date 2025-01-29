@@ -160,7 +160,7 @@ Make sure to save the file using ```Ctrl+S``` or ```Cmd+S```.
 1. using ```cargo build```
 2. using ```cargo run```
 
-The difference between both methods is that ```cargo build``` first compiles the program and then outputs an **executable** that can be ran when needed. This is similar as GNU command ```gcc``` that was used in COMP211. ```cargo run``` on the other hand, much like what the run button in VSCode does, simply directly compiles (if necessary) and runs the code.
+The difference between both methods is that ```cargo build``` first compiles the program and then outputs an **executable** that can be ran when needed. This is similar to the GNU command ```gcc``` that was used in COMP211. ```cargo run``` on the other hand, much like what the run button in VSCode does, simply directly compiles (if necessary) and runs the code.
 
 !!! note
     this can be done by using ```cd <directory-name>``` and ```cd ..```. ```ls``` is used to list the contents of each directory.
